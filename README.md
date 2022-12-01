@@ -1,4 +1,4 @@
-# Introductory Web Design course
+# Introduction to Web Design
 
 This course aims to introduce the main instruments used in web design, with special emphasis on HTML, CSS and JavaScript languages.
 
